@@ -1,8 +1,6 @@
 fastapi
 uvicorn
 python-multipart
-python-dotenv
-pydantic
-numpy
 pymupdf
-google-generativeai
+numpy
+python-dotenv
