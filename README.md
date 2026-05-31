@@ -100,7 +100,7 @@ uvicorn app.main:app --reload
 1. User uploads resume (PDF)
 2. Backend extracts text using PyMuPDF
 3. Text is sent to Gemini AI
-4. AI analyzes:
+4. analyzes:
    - Skills
    - ATS Score
    - Missing Skills
